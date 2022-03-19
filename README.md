@@ -1,1 +1,2 @@
-# telegram-reddit-bot
+# mememachine
+telegram bot for fun
