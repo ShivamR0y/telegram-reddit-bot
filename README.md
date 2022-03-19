@@ -10,6 +10,8 @@ telegram - to handle bot messages
 random - to randomly select memes abd jokes to send
 time - to sleep the deletor thread
 
+the bot code is currently hosted by me on heroku, with the username @simpmachinebot on telegram.
+
 # setup 
 
 the extra files are created to host it on heroku, other services file requirements may vary. 
