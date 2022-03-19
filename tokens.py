@@ -1,5 +1,7 @@
+#api key of bot account
 API_KEY = ''
 
+#logger chat ID
 ID = 
 
 #reddit
@@ -9,7 +11,7 @@ user_agent=''
 username=''
 password=''
 
-
+#database
 host=''
 database=''
 port = ''
