@@ -1,6 +1,6 @@
 from telegram.ext import *
 from telegram import *
-import praw,random,datetime,threading,time,psycopg2,requests
+import praw,random,datetime,threading,time,psycopg2
 from tokens import *
 
 #telegram
