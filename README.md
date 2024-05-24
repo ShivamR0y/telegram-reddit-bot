@@ -16,6 +16,6 @@ the bot code is currently hosted by me on heroku, with the username @simpmachine
 
 the extra files are created to host it on heroku, other services file requirements may vary. 
 
-1 - add all the tokens in the tokens.py file. the API_KEY is the api key of your telegram bot as given by botfather, the ID is chat id of your logget group.
+1 - add all the tokens in the tokens.py file. the API_KEY is the api key of your telegram bot as given by botfather, the ID is chat id of your logger group. (A logger group is a telegram group you create with the bot to log all activities of the bot)
 2 - create a heroku account and connet the repo to it
 3 - run and enjoy
